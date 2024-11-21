@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @deepak99346
-- 👀 I’m interested in python
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @deepak yadav
+- 👀 I’m a wev devloper
+- 🌱 I’m currently learning api
+- 📫 How to reach me kumardeepak9523267636@gmail.com
 
 <!---
 deepak99346/deepak99346 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
