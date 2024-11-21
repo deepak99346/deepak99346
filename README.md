@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepak yadav
-- 👀 I’m a wev devloper
-- 🌱 I’m currently learning api
+- 👀 I’m a web devloper
+- 🌱 I’m currently learning API
 - 📫 How to reach me kumardeepak9523267636@gmail.com
 
 <!---
