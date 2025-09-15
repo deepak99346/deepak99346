@@ -24,14 +24,14 @@
 - 📫 Reach me: **kumardeepak9523267636@gmail.com**
 - ## 🌐 Connect with Me  
 
-<p align="center" align-content="space-evenly">
+<p align="center" >
   <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/kumardeepak95231" target="_blank">
+  <a href="https://www.hackerrank.com/profile/kumardeepak95231" target="_blank" style="margin-right: 20px">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Deepakkumar2/" target="_blank">
+  <a href="https://leetcode.com/u/Deepakkumar2/" target="_blank" style="margin-right: 20px">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 
