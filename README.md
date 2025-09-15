@@ -1,6 +1,6 @@
 <!-- Banner (add your banner image here later) -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Deepak Kumar Banner" width="100%" />
+  <video src="Your paragraph text.mp4" alt="Deepak Kumar Banner" type="video/mp4"></video>
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
