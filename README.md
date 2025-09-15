@@ -1,6 +1,6 @@
 <!-- Banner (add your banner image here later) -->
 <p align="center">
-  <img src="img.png" alt="Deepak Kumar Banner" width="100%" />
+  <img src="img.png" alt="Deepak Kumar Banner" width="100%" height="100px" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
