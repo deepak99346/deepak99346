@@ -22,6 +22,24 @@
 - 🌱 I’m currently learning **APIs & DSA** to improve my problem-solving skills.
 - 👯 I’m open to collaborating on exciting **Web Development** projects.
 - 📫 Reach me: **kumardeepak9523267636@gmail.com**
+- ## 🌐 Connect with Me  
+
+<p align="center" align-content="space-evenly">
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/kumardeepak95231" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Deepakkumar2/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/deepak-kumar-b2840b2a6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
