@@ -1,10 +1,10 @@
-<!-- Banner (add your banner image here later) -->
+<!-- Banner -->
 <p align="center">
   <img src="img.png" alt="Deepak Kumar Banner" width="80%" height="300px" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">Full-stack Developer | Java | React | API Learner</h3>
+<h3 align="center">Web Developer @ Talentyug | Full-Stack Enthusiast | Java • React • APIs</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-kumar-b2840b2a6/">
@@ -18,28 +18,20 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I'm a **Full-Stack Web Developer** with a strong understanding of HTML, CSS, JavaScript, React.js, and Java.
-- 🌱 I’m currently learning **APIs & DSA** to improve my problem-solving skills.
-- 👯 I’m open to collaborating on exciting **Web Development** projects.
-- 📫 Reach me: **kumardeepak9523267636@gmail.com**
-- ## 🌐 Connect with Me  
+- 💼 Currently working as a **Web Developer at Talentyug**, building responsive UI and real-world web applications.  
+- 🔭 I’m a **Full-Stack Web Developer** skilled in HTML, CSS, JavaScript, React.js, Java, JDBC, and MySQL.  
+- 🌱 Currently learning **REST APIs, Backend Development, and DSA** to strengthen problem-solving.  
+- 👯 Open to collaborating on **Web Development & Open Source** projects.  
+- 📫 Reach me at **kumardeepak9523267636@gmail.com**
 
-<p align="center" >
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/kumardeepak95231" target="_blank" style="margin-right: 20px">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
+---
 
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Deepakkumar2/" target="_blank" style="margin-right: 20px">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+## 💼 Experience
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/deepak-kumar-b2840b2a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+### **Web Developer – Talentyug**
+- Developed **responsive and user-friendly interfaces** using HTML, CSS, JavaScript, and React.  
+- Contributed to **real-world web projects** and improved UI/UX performance.  
+- Collaborated with team members to build **scalable frontend features**.
 
 ---
 
@@ -47,16 +39,22 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| [Student-Registration-Form](https://github.com/deepak99346/Student-Registration-Form) | A complete web form project with Java JDBC backend & MySQL integration. | *Coming Soon* |
-| [Calculator-app](https://github.com/deepak99346/Calculator-app) | A beautiful JavaScript calculator with UI and input validation. | [Try here](https://deepak99346.github.io/Calculator-app/) |
-| [Responsive-Profile-Card](https://github.com/deepak99346/Responsive-Profile-Card) | A fully responsive profile card made with HTML & CSS. | *Coming Soon* |
+| [Student-Registration-Form](https://github.com/deepak99346/Student-Registration-Form) | Web form with **Java JDBC backend & MySQL database integration**. | *Coming Soon* |
+| [Calculator-App](https://github.com/deepak99346/Calculator-app) | Beautiful **JavaScript calculator** with validation and UI. | [Live Demo](https://deepak99346.github.io/Calculator-app/) |
+| [Responsive-Profile-Card](https://github.com/deepak99346/Responsive-Profile-Card) | Fully responsive **HTML & CSS profile component**. | *Coming Soon* |
 
 ---
 
-## 🛠 Skills & Tools
-**Frontend:** HTML • CSS • JavaScript • React.js  
-**Backend:** Java • JDBC • MySQL  
-**Other:** Git • GitHub • REST APIs • DSA (Problem Solving)
+## 🛠 Tech Stack
+
+**Frontend:**  
+HTML • CSS • JavaScript • React.js  
+
+**Backend:**  
+Java • JDBC • MySQL • REST APIs  
+
+**Tools & Others:**  
+Git • GitHub • Problem Solving • DSA  
 
 ---
 
@@ -73,17 +71,21 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepak-kumar-b2840b2a6/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://www.hackerrank.com/profile/kumardeepak95231">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="mailto:kumardeepak9523267636@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <a href="https://leetcode.com/u/Deepakkumar2/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/deepak-kumar-b2840b2a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐ **Feel free to explore my repositories and give a star if you like my work!**
+⭐ **Thanks for visiting my profile!**  
+If you like my work, consider giving a **star ⭐** to my repositories.
